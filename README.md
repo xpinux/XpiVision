@@ -26,10 +26,9 @@ This is a bash script that performs analysis on a website and generates an HTML 
 1. Clone the repository:
 `git clone https://github.com/username/XpiVision.git`
 2. Navigate to the project directory:
-`cd XpiVision
+`cd XpiVision`
 3. Run the script:
 `bash XpiVision.sh`
-
 4. Enter the website URL when prompted.
 
 # Output
