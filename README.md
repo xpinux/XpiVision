@@ -35,8 +35,3 @@ This is a bash script that performs analysis on a website and generates an HTML 
 # Output
 
 The script generates an HTML report that opens in your default web browser.
-
-##License
-
-This project is licensed under the [MIT License](LICENSE).
-
